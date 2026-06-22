@@ -1,0 +1,242 @@
+{
+  "activeId": "list-1779710443485",
+  "lists": [
+    {
+      "id": "list-1779710443485",
+      "name": "Competitors",
+      "apps": [
+        {
+          "id": "android-com.ideomobile.discount",
+          "appId": "com.ideomobile.discount",
+          "title": "Discount Bank",
+          "developer": "Israel Discount Bank ltd.",
+          "icon": "https://play-lh.googleusercontent.com/X9tSuKaN1cKD_Ej9qQuxXs2GNFCeJdLzkM1pa6jpns-N_5gpeD01War8iNPWHGzd7w",
+          "rating": 3.2888632,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.ideomobile.discount"
+        },
+        {
+          "id": "ios-342173691",
+          "appId": "il.co.discountbank.discountbank",
+          "numericId": 342173691,
+          "title": "Discount Bank - בנק דיסקונט",
+          "developer": "Israel Discount Bank ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/4f/ae/864faeaf-5615-a3f8-1e3e-c69d37619d2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "rating": 4.62826,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id342173691"
+        },
+        {
+          "id": "android-com.ideomobile.hapoalim",
+          "appId": "com.ideomobile.hapoalim",
+          "title": "בנק הפועלים - ניהול החשבון",
+          "developer": "BankHapoalim",
+          "icon": "https://play-lh.googleusercontent.com/5aAU4pZJsYHTQhgVXkwT-L3ZDtCHK8nVtJxcfXmoj7rmmELX-85f78QRYd5VO2KyoA",
+          "rating": 4.6156445,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.ideomobile.hapoalim"
+        },
+        {
+          "id": "ios-362123205",
+          "appId": "com.hapoalim.hapoalim",
+          "numericId": 362123205,
+          "title": "ניהול החשבון - בנק הפועלים",
+          "developer": "Bank Hapoalim",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/4b/fb/434bfb98-0bb0-23df-7e2f-cc19e2b15369/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+          "rating": 4.56583,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id362123205"
+        },
+        {
+          "id": "android-com.leumi.leumiwallet",
+          "appId": "com.leumi.leumiwallet",
+          "title": "לאומי",
+          "developer": "Bank Leumi Le Israel",
+          "icon": "https://play-lh.googleusercontent.com/ifS3ZQkc31sCsO315uv25uGHNkdORi1TkYwkdr_6EoTu-cQypzZRoqT6KEwE7aNFYak",
+          "rating": 4.6861315,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.leumi.leumiwallet"
+        },
+        {
+          "id": "ios-337963192",
+          "appId": "com.leumi.leumidigital",
+          "numericId": 337963192,
+          "title": "לאומי",
+          "developer": "Bank Leumi Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/ea/44/1dea4490-c61c-7cfd-5a2d-e123160b695b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+          "rating": 4.52025,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id337963192"
+        },
+        {
+          "id": "android-com.MizrahiTefahot.nh",
+          "appId": "com.MizrahiTefahot.nh",
+          "title": "מזרחי טפחות - ניהול חשבון",
+          "developer": "בנק מזרחי-טפחות",
+          "icon": "https://play-lh.googleusercontent.com/gyKLhRhJyVvCUTJoNGChnfsGtCMC0Gjac2NRHN5lNykpcU8rYvPveMLKYADRDMYmpI0",
+          "rating": 2.9271653,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.MizrahiTefahot.nh"
+        },
+        {
+          "id": "ios-508767900",
+          "appId": "il.co.mizrahi-tefahot.mobilebank",
+          "numericId": 508767900,
+          "title": "מזרחי טפחות – ניהול חשבון",
+          "developer": "Mizrahi-Tefahot Bank Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/50/7b/f4507bde-7dcc-66df-116c-582ddb99200c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "rating": 2.81495,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id508767900"
+        },
+        {
+          "id": "ios-1434666229",
+          "appId": "il.co.yahav.mobilebanking",
+          "numericId": 1434666229,
+          "title": "בנק יהב ניהול חשבון",
+          "developer": "Bank Yahav For Government Employees",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/7b/46/ac7b46ae-2e8c-2af7-9282-4297876d543b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+          "rating": 2.10085,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id1434666229"
+        },
+        {
+          "id": "android-il.co.yahav.mobtrading",
+          "appId": "il.co.yahav.mobtrading",
+          "title": "בנק יהב - שוק ההון",
+          "developer": "Bank Yahav",
+          "icon": "https://play-lh.googleusercontent.com/gV8_vl5v92tsDnjO9nrIp73yGqqDYfTYulLBhEYifTPCguskkSD4hzg7AgVKYMHWCdU",
+          "rating": 2.96,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=il.co.yahav.mobtrading"
+        },
+        {
+          "id": "ios-1592065412",
+          "appId": "com.bankjerusalem",
+          "numericId": 1592065412,
+          "title": "בנק ירושלים",
+          "developer": "Bank Jerusalem",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/0f/91/120f91b5-08e5-9c58-be20-895d2261247d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+          "rating": 4.6875,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id1592065412"
+        },
+        {
+          "id": "ios-6763045580",
+          "appId": "com.esh-bank.il",
+          "numericId": 6763045580,
+          "title": "esh",
+          "developer": "Bank Esh Israel Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b4/92/aab49293-afab-aaf4-1108-1280e5ed758c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+          "rating": 5,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id6763045580"
+        },
+        {
+          "id": "ios-1138799805",
+          "appId": "com.pepper.ldb",
+          "numericId": 1138799805,
+          "title": "PEPPER – Mobile Banking",
+          "developer": "Bank Leumi Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/bd/ce/79bdcef3-fe10-902b-06e5-2beb587848cf/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+          "rating": 4.61228,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id1138799805"
+        }
+      ]
+    },
+    {
+      "id": "list-1779710778172",
+      "name": "stock",
+      "apps": []
+    },
+    {
+      "id": "list-1779710878912",
+      "name": "us banks",
+      "apps": [
+        {
+          "id": "ios-298867247",
+          "appId": "com.chase",
+          "numericId": 298867247,
+          "title": "Chase Mobile® U.S.",
+          "developer": "JPMorgan Chase & Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/21/39/bc2139f4-ae48-f6dc-c3b4-f58b57ea4c04/ChaseAppIcons-0-0-1x_U007emarketing-0-8-0-0-85-220.jpeg/512x512bb.jpg",
+          "rating": 4.71737,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id298867247"
+        },
+        {
+          "id": "android-com.citi.mobile.cdbe",
+          "appId": "com.citi.mobile.cdbe",
+          "title": "CitiDirect",
+          "developer": "Citibank N.A.",
+          "icon": "https://play-lh.googleusercontent.com/1B3amm73wEmV6tfyZ8fwBKZmoOxxWv61LmIyiYypmnzWDsB7w2IjWvG0PtGF6mfy_yA",
+          "rating": 4.266667,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.citi.mobile.cdbe"
+        },
+        {
+          "id": "android-co.uk.getmondo",
+          "appId": "co.uk.getmondo",
+          "title": "Monzo Bank - Mobile Banking",
+          "developer": "Monzo",
+          "icon": "https://play-lh.googleusercontent.com/L2K9YtqDLBlwqKut6AZc1GnDGqRET2icZEI3fvpNDLhHrdfLx_LyZBv-Zajg3LJip4Q",
+          "rating": 4.3142858,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=co.uk.getmondo"
+        },
+        {
+          "id": "android-com.revolut.revolut",
+          "appId": "com.revolut.revolut",
+          "title": "Revolut",
+          "developer": "Revolut Ltd",
+          "icon": "https://play-lh.googleusercontent.com/g7oEwBJVoWxTdjfPIy9tKkeLn7pG1c_vwCUCCcbd0KFDE8z4zHQhvt-LKHXU9emN0g",
+          "rating": 4.3106384,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.revolut.revolut"
+        },
+        {
+          "id": "android-com.nu.production",
+          "appId": "com.nu.production",
+          "title": "Nu",
+          "developer": "Nu",
+          "icon": "https://play-lh.googleusercontent.com/NPkx0aiwABB31gBw_CuZO9Rwukhir-BwemxfNlAVjT6smwk6QgUbb3XrmsSSClfzk0dY",
+          "rating": 4.7391305,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.nu.production"
+        },
+        {
+          "id": "ios-1038772801",
+          "appId": "com.mbs.bop",
+          "numericId": 1038772801,
+          "title": "Bank of Palestine",
+          "developer": "Bank of Palestine p.l.c.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/6c/93/686c93a1-899e-636e-a0f5-76ff65bc33c4/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+          "rating": 4.18954,
+          "platform": "ios",
+          "storeUrl": "https://apps.apple.com/il/app/id1038772801"
+        },
+        {
+          "id": "android-com.sbg.mobile.phone",
+          "appId": "com.sbg.mobile.phone",
+          "title": "Standard Bank / Stanbic Bank",
+          "developer": "Standard Bank / Stanbic Bank",
+          "icon": "https://play-lh.googleusercontent.com/eA5Wh89ObNRqlaweoqe61spw7138rAclaLRTo00OYoIUxiEoojuxLDzdFFZfBiWhxKU",
+          "rating": 4.95,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.sbg.mobile.phone"
+        },
+        {
+          "id": "android-com.chase.sig.android",
+          "appId": "com.chase.sig.android",
+          "title": "Chase Mobile",
+          "developer": "JPMorgan Chase",
+          "icon": "https://play-lh.googleusercontent.com/nSkpJQa6V2cjC0JEgerrwner4IelIQzg06DZY8dtGwRsq6iXcrxCX2Iop_VI9pohvnI",
+          "rating": 4.57,
+          "platform": "android",
+          "storeUrl": "https://play.google.com/store/apps/details?id=com.chase.sig.android"
+        }
+      ]
+    }
+  ]
+}

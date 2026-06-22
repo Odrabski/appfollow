@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm show *)",
+      "Bash(timeout 3 node server.js)",
+      "Bash(node --check server.js)",
+      "Bash(node_modules/.bin/vite build *)",
+      "Bash(npm run *)",
+      "Read(//private/tmp/**)",
+      "Bash(flyctl deploy *)",
+      "Bash(npm uninstall *)",
+      "Bash(./deploy.sh)"
+    ]
+  }
+}
