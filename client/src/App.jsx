@@ -797,7 +797,7 @@ function Dashboard({ user, onLogout }) {
         <div className="max-w-6xl mx-auto px-5 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2.5 font-bold text-slate-900">
             <span className="text-xl">🚀</span>
-            <span>AppFollow</span>
+            <span>AppFollow V2</span>
             <span className="hidden sm:inline text-slate-400 font-normal text-sm">/ Competitor Intelligence</span>
             <span className="text-xs font-medium text-slate-400 bg-slate-100 px-1.5 py-0.5 rounded-md">v{VERSION}</span>
           </div>
