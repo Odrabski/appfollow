@@ -10,7 +10,12 @@
       "Read(//private/tmp/**)",
       "Bash(flyctl deploy *)",
       "Bash(npm uninstall *)",
-      "Bash(./deploy.sh)"
+      "Bash(./deploy.sh)",
+      "Bash(gh repo *)",
+      "Bash(echo \"# AppFollow\")",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)"
     ]
   }
 }
